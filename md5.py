@@ -1,3 +1,6 @@
+#!/usr/bin/env/python
+#from VietNam 🇻🇳
+# I Love You so much ❤
 import hashlib
 import platform
 import os
